@@ -1,0 +1,6 @@
+list<integer> listofnum = new list<integer>();
+list.add(5);
+list.add(6);
+list.add(77);
+list.add(8);
+list.add(89);
